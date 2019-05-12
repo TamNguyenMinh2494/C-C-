@@ -1,0 +1,6 @@
+﻿  Queue.cpp
+d:\cntt\laptrinhc\queue\queue\queue.cpp(14): warning C4091: 'typedef ': ignored on left of 'SinhVien' when no variable is declared
+d:\cntt\laptrinhc\queue\queue\queue.cpp(19): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+d:\cntt\laptrinhc\queue\queue\queue.cpp(24): warning C4091: 'typedef ': ignored on left of 'Queue' when no variable is declared
+d:\cntt\laptrinhc\queue\queue\queue.cpp(107): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Queue.vcxproj -> D:\CNTT\LaptrinhC\Queue\Debug\Queue.exe

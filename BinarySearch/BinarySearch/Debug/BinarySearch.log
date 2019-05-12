@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\cntt\laptrinhc\binarysearch\binarysearch\source.cpp(16): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\cntt\laptrinhc\binarysearch\binarysearch\source.cpp(20): warning C4715: 'NhapMang' : not all control paths return a value
+  BinarySearch.vcxproj -> D:\CNTT\LaptrinhC\BinarySearch\Debug\BinarySearch.exe

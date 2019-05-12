@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\cntt\laptrinhc\clist\clist\source.cpp(12): warning C4091: 'typedef ' : ignored on left of 'SV' when no variable is declared
+d:\cntt\laptrinhc\clist\clist\source.cpp(17): warning C4091: 'typedef ' : ignored on left of 'Clist' when no variable is declared
+d:\cntt\laptrinhc\clist\clist\source.cpp(54): error C2065: 'n' : undeclared identifier
+d:\cntt\laptrinhc\clist\clist\source.cpp(62): error C2065: 'n' : undeclared identifier

@@ -1,0 +1,7 @@
+D:\CNTT\LaptrinhC\Design Pattern_Term181a\Observer\Observer\Observer\bin\Debug\Observer.exe.config
+D:\CNTT\LaptrinhC\Design Pattern_Term181a\Observer\Observer\Observer\bin\Debug\Observer.exe
+D:\CNTT\LaptrinhC\Design Pattern_Term181a\Observer\Observer\Observer\bin\Debug\Observer.pdb
+D:\CNTT\LaptrinhC\Design Pattern_Term181a\Observer\Observer\Observer\obj\Debug\Observer.csprojAssemblyReference.cache
+D:\CNTT\LaptrinhC\Design Pattern_Term181a\Observer\Observer\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+D:\CNTT\LaptrinhC\Design Pattern_Term181a\Observer\Observer\Observer\obj\Debug\Observer.exe
+D:\CNTT\LaptrinhC\Design Pattern_Term181a\Observer\Observer\Observer\obj\Debug\Observer.pdb

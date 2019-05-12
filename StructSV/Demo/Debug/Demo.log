@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\cntt\laptrinhc\structsv\demo\thuvienstruct.h(13): warning C4091: 'typedef ': ignored on left of 'SinhVien' when no variable is declared
+  thuvienstruct.cpp
+d:\cntt\laptrinhc\structsv\demo\thuvienstruct.h(13): warning C4091: 'typedef ': ignored on left of 'SinhVien' when no variable is declared
+  Generating Code...
+  Demo.vcxproj -> D:\CNTT\LaptrinhC\StructSV\Debug\StructSv.exe

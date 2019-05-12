@@ -1,0 +1,3 @@
+﻿  DFS.cpp
+d:\cntt\laptrinhc\dfs\dfs\dfs\dfs.cpp(23): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  DFS.vcxproj -> D:\CNTT\LaptrinhC\DFS\DFS\Debug\DFS.exe

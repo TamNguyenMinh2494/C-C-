@@ -1,0 +1,6 @@
+﻿  Stack.cpp
+d:\cntt\laptrinhc\stack\stack\stack.cpp(13): warning C4091: 'typedef ': ignored on left of 'Stack' when no variable is declared
+d:\cntt\laptrinhc\stack\stack\stack.cpp(64): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\cntt\laptrinhc\stack\stack\stack.cpp(72): warning C4018: '<': signed/unsigned mismatch
+d:\cntt\laptrinhc\stack\stack\stack.cpp(62): warning C4715: 'HauTo': not all control paths return a value
+  Stack.vcxproj -> D:\CNTT\LaptrinhC\Stack\Debug\Stack.exe

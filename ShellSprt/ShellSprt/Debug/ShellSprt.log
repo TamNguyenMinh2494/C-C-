@@ -1,0 +1,5 @@
+﻿  ShellSprt.cpp
+d:\cntt\laptrinhc\shellsprt\shellsprt\shellsprt.cpp(41): warning C4101: 'left': unreferenced local variable
+d:\cntt\laptrinhc\shellsprt\shellsprt\shellsprt.cpp(41): warning C4101: 'mid': unreferenced local variable
+d:\cntt\laptrinhc\shellsprt\shellsprt\shellsprt.cpp(41): warning C4101: 'right': unreferenced local variable
+  ShellSprt.vcxproj -> D:\CNTT\LaptrinhC\ShellSprt\Debug\ShellSprt.exe

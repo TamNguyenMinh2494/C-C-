@@ -1,0 +1,7 @@
+D:\CNTT\LaptrinhC\OOAD\OOAD\bin\Debug\OOAD.exe.config
+D:\CNTT\LaptrinhC\OOAD\OOAD\bin\Debug\OOAD.exe
+D:\CNTT\LaptrinhC\OOAD\OOAD\bin\Debug\OOAD.pdb
+D:\CNTT\LaptrinhC\OOAD\OOAD\obj\Debug\OOAD.csprojAssemblyReference.cache
+D:\CNTT\LaptrinhC\OOAD\OOAD\obj\Debug\OOAD.csproj.CoreCompileInputs.cache
+D:\CNTT\LaptrinhC\OOAD\OOAD\obj\Debug\OOAD.exe
+D:\CNTT\LaptrinhC\OOAD\OOAD\obj\Debug\OOAD.pdb

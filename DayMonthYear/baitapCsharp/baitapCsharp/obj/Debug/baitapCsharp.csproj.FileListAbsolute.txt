@@ -1,0 +1,12 @@
+D:\LaptrinhC\baitap\baitapCsharp\baitapCsharp\bin\Debug\baitapCsharp.exe.config
+D:\LaptrinhC\baitap\baitapCsharp\baitapCsharp\bin\Debug\baitapCsharp.exe
+D:\LaptrinhC\baitap\baitapCsharp\baitapCsharp\bin\Debug\baitapCsharp.pdb
+D:\LaptrinhC\baitap\baitapCsharp\baitapCsharp\obj\Debug\baitapCsharp.csprojResolveAssemblyReference.cache
+D:\LaptrinhC\baitap\baitapCsharp\baitapCsharp\obj\Debug\baitapCsharp.exe
+D:\LaptrinhC\baitap\baitapCsharp\baitapCsharp\obj\Debug\baitapCsharp.pdb
+D:\CNTT\LaptrinhC\baitap\baitapCsharp\baitapCsharp\bin\Debug\baitapCsharp.exe.config
+D:\CNTT\LaptrinhC\baitap\baitapCsharp\baitapCsharp\obj\Debug\baitapCsharp.exe
+D:\CNTT\LaptrinhC\baitap\baitapCsharp\baitapCsharp\obj\Debug\baitapCsharp.pdb
+D:\CNTT\LaptrinhC\baitap\baitapCsharp\baitapCsharp\bin\Debug\baitapCsharp.exe
+D:\CNTT\LaptrinhC\baitap\baitapCsharp\baitapCsharp\bin\Debug\baitapCsharp.pdb
+D:\CNTT\LaptrinhC\baitap\baitapCsharp\baitapCsharp\obj\Debug\baitapCsharp.csprojResolveAssemblyReference.cache

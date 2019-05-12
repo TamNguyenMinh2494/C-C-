@@ -1,0 +1,6 @@
+D:\CNTT\LaptrinhC\baitap\baitapCsharp\baitapCsharp\testproject\testproject\bin\Debug\testproject.exe.config
+D:\CNTT\LaptrinhC\baitap\baitapCsharp\baitapCsharp\testproject\testproject\bin\Debug\testproject.exe
+D:\CNTT\LaptrinhC\baitap\baitapCsharp\baitapCsharp\testproject\testproject\bin\Debug\testproject.pdb
+D:\CNTT\LaptrinhC\baitap\baitapCsharp\baitapCsharp\testproject\testproject\obj\Debug\testproject.csprojResolveAssemblyReference.cache
+D:\CNTT\LaptrinhC\baitap\baitapCsharp\baitapCsharp\testproject\testproject\obj\Debug\testproject.exe
+D:\CNTT\LaptrinhC\baitap\baitapCsharp\baitapCsharp\testproject\testproject\obj\Debug\testproject.pdb

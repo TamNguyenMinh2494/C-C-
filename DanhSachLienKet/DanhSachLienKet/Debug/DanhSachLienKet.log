@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\cntt\laptrinhc\danhsachlienket\danhsachlienket\source.cpp(13): warning C4091: 'typedef ' : ignored on left of 'Xe' when no variable is declared
+d:\cntt\laptrinhc\danhsachlienket\danhsachlienket\source.cpp(18): warning C4091: 'typedef ' : ignored on left of 'Node' when no variable is declared
+d:\cntt\laptrinhc\danhsachlienket\danhsachlienket\source.cpp(22): warning C4091: 'typedef ' : ignored on left of 'List' when no variable is declared
+d:\cntt\laptrinhc\danhsachlienket\danhsachlienket\source.cpp(123): warning C4101: 'x' : unreferenced local variable
+d:\cntt\laptrinhc\danhsachlienket\danhsachlienket\source.cpp(123): warning C4101: 'n' : unreferenced local variable
+  DanhSachLienKet.vcxproj -> D:\CNTT\LaptrinhC\DanhSachLienKet\Debug\DanhSachLienKet.exe

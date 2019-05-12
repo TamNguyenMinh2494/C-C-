@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  BTree.cpp
+d:\cntt\laptrinhc\btree\btree\btree.cpp(14): warning C4091: 'typedef ': ignored on left of 'SV' when no variable is declared
+d:\cntt\laptrinhc\btree\btree\btree.cpp(20): warning C4091: 'typedef ': ignored on left of 'BNode' when no variable is declared
+d:\cntt\laptrinhc\btree\btree\btree.cpp(24): warning C4091: 'typedef ': ignored on left of 'BTree' when no variable is declared
+d:\cntt\laptrinhc\btree\btree\btree.cpp(88): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\cntt\laptrinhc\btree\btree\btree.cpp(115): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\cntt\laptrinhc\btree\btree\btree.cpp(125): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  BTree.vcxproj -> D:\CNTT\LaptrinhC\BTree\Debug\BTree.exe
